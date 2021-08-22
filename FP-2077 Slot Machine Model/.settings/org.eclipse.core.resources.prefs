@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/slotmachine/client/SlotMachineTest.java=UTF-8
+encoding//src/slotmachine/model/SlotMachineImpl.java=UTF-8
+encoding//src/slotmachine/model/slots/LineNum.java=UTF-8
+encoding//src/slotmachine/model/slots/SlotLineImpl.java=UTF-8
+encoding//src/slotmachine/model/slots/WheelImpl.java=UTF-8
